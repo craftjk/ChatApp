@@ -1,0 +1,9 @@
+div.messages {
+	float: left;
+	width: 74%;
+}
+
+div.input {
+	float: right;
+	width: 24%;
+}
